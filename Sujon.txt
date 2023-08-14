@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-techtitan check from sujon error404
-
-=======
-techtitan check from 30099
->>>>>>> 4ed715e2e3b161d17af0d00d0140ee4e3e546346
+techtitan check from Sujon
