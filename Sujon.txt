@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 checking git conflict from development
+=======
+techtitan check from sujon error404 conflct101 from development
+>>>>>>> 5898d422bb9ea3cc488733502ee37c2169edd65a
 
