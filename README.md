@@ -1,1 +1,1 @@
-# SQA_project-1
+# GROUP REPO for TECH TITANS 
