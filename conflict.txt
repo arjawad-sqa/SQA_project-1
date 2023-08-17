@@ -1,2 +1,2 @@
 This file is to make conflicts
-This is the third line
+This is the fourth line
