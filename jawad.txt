@@ -1,2 +1,1 @@
-checking conflict . . . 
-to check conflict for lines [check 2]
+trychecking conflict . . . 
